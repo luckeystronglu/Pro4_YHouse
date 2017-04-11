@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="appcolor"> #1e1c1c</color>
+    <color name="appcolorj"> #cba977</color>
+    <color name="appcolorh">#f1d9d9</color>
+    <color name="appcolorw">#fff</color>
+    <color name="appcolorr">#ed2222</color>
+    <color name="appcolorh2">#c2b1b1</color>
+
+    <color name="baiqiancolor1">#5ad05a</color>
+    <color name="baiqiancolor2">#e573eb</color>
+    <color name="baiqiancolor3">#69dde3</color>
+    <color name="baiqiancolor4">#e1e380</color>
+</resources>

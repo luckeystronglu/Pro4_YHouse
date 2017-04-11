@@ -1,0 +1,75 @@
+﻿{
+    "code": "0", 
+    "message": "success", 
+    "detail": "", 
+    "data": {
+        "reserveList": [
+            {
+                "adsName": "reserveList", 
+                "content": [
+                    {
+                        "id": 0, 
+                        "description": "走遍了山川大河 玩转了青山绿水 <br/>回归城市 看看大街小巷 藏了多少秘密 <br/>音乐会 热闹趴 密室逃脱都不少 <br/>猎奇的 有趣的 千奇百怪花样多 <br/> <br/>就在这个城市 <br/>跟YHOUSE一起寻找 <br/>感受每时每刻的新意玩法", 
+                        "picUrl": "http://p.yhres.com/topic/2016/10/18/156970_1476780866976.jpg-q75", 
+                        "sPicUrl": "http://p.yhres.com/topic/2016/10/18/156970_1476780866976.jpg-ssq75", 
+                        "title": "片刻不停的城市新玩法", 
+                        "linkUrl": "/topic/2759", 
+                        "schemeUrl": "yhouse://topic/2759", 
+                        "linkName": "TOPIC", 
+                        "linkType": 6, 
+                        "pvUrl": null, 
+                        "linkId": 2759, 
+                        "xsort": 1, 
+                        "actual": false
+                    }, 
+                    {
+                        "id": 1173, 
+                        "description": null, 
+                        "picUrl": "http://p.yhres.com/ads/2016/10/26/1477491990482563.jpg-q75", 
+                        "sPicUrl": "http://p.yhres.com/ads/2016/10/25/1477389662022446.png-ssq75", 
+                        "title": "#不设线#", 
+                        "linkUrl": "http://clickc.admaster.com.cn/c/a77254,b1372122,c3012,i0,m101,8a2,8b2,h", 
+                        "schemeUrl": "yhouse://video?title=%23%E4%B8%8D%E8%AE%BE%E7%BA%BF%23&url=http%3A%2F%2Fclickc.admaster.com.cn%2Fc%2Fa77254%2Cb1372122%2Cc3012%2Ci0%2Cm101%2C8a2%2C8b2%2Ch&shareIcon=http%3A%2F%2Fp.yhres.com%2Fads%2F2016%2F10%2F25%2F1477389662022446.png-ssq75", 
+                        "linkName": "VIDEO", 
+                        "linkType": 5, 
+                        "pvUrl": "http://v.admaster.com.cn/i/a77254,b1372122,c3012,i0,m202,8a2,8b2,h", 
+                        "linkId": null, 
+                        "xsort": 2, 
+                        "actual": false
+                    }, 
+                    {
+                        "id": 938, 
+                        "description": null, 
+                        "picUrl": "http://p.yhres.com/ads/2016/09/27/1474972050616473.jpg-q75", 
+                        "sPicUrl": "http://p.yhres.com/ads/2016/09/14/1473820543406975.jpg-ssq75", 
+                        "title": "雷克萨斯　一路走心", 
+                        "linkUrl": "http://m.yhouse.com/m/2016lexus/index.html", 
+                        "schemeUrl": "yhouse://web?title=%E9%9B%B7%E5%85%8B%E8%90%A8%E6%96%AF%E3%80%80%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%BF%83&url=http%3A%2F%2Fm.yhouse.com%2Fm%2F2016lexus%2Findex.html&shareIcon=http%3A%2F%2Fp.yhres.com%2Fads%2F2016%2F09%2F14%2F1473820543406975.jpg-ssq75&shareTitle=&shareDesc=", 
+                        "linkName": "HTML5", 
+                        "linkType": 4, 
+                        "pvUrl": "", 
+                        "linkId": null, 
+                        "xsort": 4, 
+                        "actual": false
+                    }, 
+                    {
+                        "id": 0, 
+                        "description": "长假余额已清零 那就给它充个电吧 <br/>近郊美景家人伴 异国街头玩自拍 <br/>上天下海做超人 呼朋引伴好愉快 <br/>真人war game 音乐会 <br/>每时每刻都是花样 <br/>何地何处全是新意 <br/> <br/>只要你愿意和YHOUSE一起玩起来 <br/>天天都是小长假", 
+                        "picUrl": "http://p.yhres.com/topic/2016/10/11/156970_1476183172606.jpg-q75", 
+                        "sPicUrl": "http://p.yhres.com/topic/2016/10/11/156970_1476183172606.jpg-ssq75", 
+                        "title": "延续长假的任性玩乐指南", 
+                        "linkUrl": "/topic/2716", 
+                        "schemeUrl": "yhouse://topic/2716", 
+                        "linkName": "TOPIC", 
+                        "linkType": 6, 
+                        "pvUrl": null, 
+                        "linkId": 2716, 
+                        "xsort": 6, 
+                        "actual": false
+                    }
+                ], 
+                "position": 1
+            }
+        ]
+    }
+}

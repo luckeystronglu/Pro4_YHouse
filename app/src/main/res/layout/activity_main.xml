@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.huangj.pro4_yhouse.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fl_zw"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </FrameLayout>
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rb1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="首页"
+            android:gravity="center"
+            android:onClick="btnOnclick"
+            android:drawableTop="@drawable/selector_home"
+            android:button="@null" />
+        <RadioButton
+            android:id="@+id/rb2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="社区"
+            android:gravity="center"
+            android:onClick="btnOnclick"
+            android:drawableTop="@drawable/selector_video"
+            android:button="@null" />
+        <RadioButton
+            android:id="@+id/rb3"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:onClick="btnOnclick"
+            android:layout_marginTop="6dp"
+            android:drawableTop="@drawable/main_page_icon_flash"
+            android:button="@null" />
+        <RadioButton
+            android:id="@+id/rb4"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="动态"
+            android:gravity="center"
+            android:onClick="btnOnclick"
+            android:drawableTop="@drawable/selector_msg"
+            android:button="@null" />
+        <RadioButton
+            android:id="@+id/rb5"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="我的"
+            android:gravity="center"
+            android:onClick="btnOnclick"
+            android:drawableTop="@drawable/selector_mine"
+            android:button="@null" />
+
+    </RadioGroup>
+
+</LinearLayout>

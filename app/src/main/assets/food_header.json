@@ -1,0 +1,105 @@
+﻿{
+  "code": "0", 
+  "message": "success", 
+  "detail": "", 
+  "data": {
+    "reserveList": [
+      {
+        "adsName": "reserveList", 
+        "content": [
+          {
+            "id": 1124, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/ads/2016/10/19/1476843691880300.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/ads/2016/10/19/1476843691880300.jpg-ssq75", 
+            "title": "除了全聚德还有哪些值得一尝的烤鸭？", 
+            "linkUrl": "/guide/3042", 
+            "schemeUrl": "yhouse://guide/3042", 
+            "linkName": "GUIDE", 
+            "linkType": 8, 
+            "pvUrl": "", 
+            "linkId": 3042, 
+            "xsort": 1, 
+            "actual": false
+          }, 
+          {
+            "id": 1175, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/rocket/2016/10/26/1477418086071_87970.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/rocket/2016/10/26/1477418086071_87970.jpg-ssq75", 
+            "title": "寻味传奇", 
+            "linkUrl": "http://p.yhres.com/rocket/2016/10/26/1477418051561_105997.mp4", 
+            "schemeUrl": "yhouse://video?title=%E5%AF%BB%E5%91%B3%E4%BC%A0%E5%A5%87&url=http%3A%2F%2Fp.yhres.com%2Frocket%2F2016%2F10%2F26%2F1477418051561_105997.mp4&shareIcon=http%3A%2F%2Fp.yhres.com%2Frocket%2F2016%2F10%2F26%2F1477418086071_87970.jpg-ssq75", 
+            "linkName": "VIDEO", 
+            "linkType": 5, 
+            "pvUrl": "", 
+            "linkId": null, 
+            "xsort": 2, 
+            "actual": true
+          }, 
+          {
+            "id": 1160, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/ads/2016/10/24/1477295568430085.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/ads/2016/10/24/1477295568430085.jpg-ssq75", 
+            "title": "鱼的一百种吃法 花样吃鱼指南", 
+            "linkUrl": "/guide/3051", 
+            "schemeUrl": "yhouse://guide/3051", 
+            "linkName": "GUIDE", 
+            "linkType": 8, 
+            "pvUrl": "", 
+            "linkId": 3051, 
+            "xsort": 3, 
+            "actual": false
+          }, 
+          {
+            "id": 1110, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/ads/2016/10/17/1476669349815093.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/ads/2016/10/17/1476669349815093.jpg-ssq75", 
+            "title": "一份正宗的西班牙海鲜饭长什么样？", 
+            "linkUrl": "/guide/3038", 
+            "schemeUrl": "yhouse://guide/3038", 
+            "linkName": "GUIDE", 
+            "linkType": 8, 
+            "pvUrl": "", 
+            "linkId": 3038, 
+            "xsort": 5, 
+            "actual": false
+          }, 
+          {
+            "id": 1150, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/ads/2016/10/21/1477030864695447.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/ads/2016/10/21/1477030864695447.jpg-ssq75", 
+            "title": "食川派火锅的绝佳去处 冷秋的热辣狂欢", 
+            "linkUrl": "/guide/3048", 
+            "schemeUrl": "yhouse://guide/3048", 
+            "linkName": "GUIDE", 
+            "linkType": 8, 
+            "pvUrl": "", 
+            "linkId": 3048, 
+            "xsort": 6, 
+            "actual": false
+          }, 
+          {
+            "id": 548, 
+            "description": null, 
+            "picUrl": "http://p.yhres.com/ads/2016/10/17/1476686035116042.jpg-q75", 
+            "sPicUrl": "http://p.yhres.com/gg/2016/08/03/1470205780523918.jpg-ssq75", 
+            "title": "新人注册有礼", 
+            "linkUrl": "https://m.yhouse.com/promo-new", 
+            "schemeUrl": "yhouse://web?title=%E6%96%B0%E4%BA%BA%E6%B3%A8%E5%86%8C%E6%9C%89%E7%A4%BC&url=https%3A%2F%2Fm.yhouse.com%2Fpromo-new&shareIcon=http%3A%2F%2Fp.yhres.com%2Fgg%2F2016%2F08%2F03%2F1470205780523918.jpg-ssq75&shareTitle=&shareDesc=", 
+            "linkName": "HTML5", 
+            "linkType": 4, 
+            "pvUrl": "", 
+            "linkId": 0, 
+            "xsort": 20, 
+            "actual": false
+          }
+        ], 
+        "position": 1
+      }
+    ]
+  }
+}
